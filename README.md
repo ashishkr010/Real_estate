@@ -3,6 +3,8 @@
 
 ### Live Link
 https://real-estate-arova.onrender.com/
+### Live Demo: Google Drive Link
+https://drive.google.com/drive/folders/1j8ytBs62xHtf7pEaWW13WYwFSog110h0?usp=sharing
 
 ## Overview
 This repository contains the code and resources for a Real Estate application built using the MERN stack with Vite.</br> The project aims to provide users with a seamless platform to browse, list, and manage real estate properties efficiently.
@@ -30,6 +32,11 @@ npm install
 • Smart recommendations and suggestions powered by AI <br/>
 
 ### Screeshots
+Live Demo Goog
+
+
+
+
 Home Page
 ![WhatsApp Image 2024-12-28 at 11 42 09 PM](https://github.com/user-attachments/assets/bbe27e25-7faa-45d0-be1d-e71b92b88899)
 ![WhatsApp Image 2024-12-28 at 11 37 15 PM](https://github.com/user-attachments/assets/61ffc3d7-9086-4a1e-a562-676262f98f94)
